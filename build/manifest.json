@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "id": "column-width-adjuster",
+    "name": "列宽自动调整器",
+    "version": "1.0.0",
+    "description": "一键调整 AI 表格列宽，支持按内容、表头、固定值三种方式",
+    "author": "Your Name",
+    "homepage": "https://github.com/your-repo"
+  },
+  "base": {
+    "scriptService": {
+      "url": "script.html"
+    },
+    "sidebars": [
+      {
+        "url": "ui.html",
+        "title": "列宽自动调整器"
+      }
+    ]
+  }
+}
